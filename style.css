@@ -1,0 +1,8 @@
+.hovertext a {
+    transition: 0.3s ease;
+}
+
+
+.hovertext a:hover {
+    color: #ffb03b!important;
+}
